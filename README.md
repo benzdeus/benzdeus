@@ -6,4 +6,5 @@
 
 
 <a href="https://app.daily.dev/bezblue"><img src="https://api.daily.dev/devcards/ff973cac2e50435187f07bd235704989.png?r=6fy" width="400" alt="benz-SS's Dev Card"/></a>
- I'am Thinnawarth
+
+<img src="https://i.pinimg.com/originals/cf/cf/d5/cfcfd5c7a6f12af37c4b3f6df18fae01.jpg" width="400" />
